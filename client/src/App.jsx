@@ -2,7 +2,7 @@ import { Suspense } from "react";
 import "./App.css";
 
 import Layout from "./components/Layout/Layout";
-import Website from "./pages/website";
+import Website from '../src/pages/Website';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Properties from "./pages/Properties/Properties";
 import {QueryClient, QueryClientProvider} from 'react-query';
