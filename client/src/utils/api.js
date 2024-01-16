@@ -4,7 +4,7 @@ import {toast} from 'react-toastify';
 
 // Specify the baseURL of server
 export const api = axios.create({
-  baseURL: "https://fullstack-real-estate-three.vercel.app/api",
+  baseURL: "https://fullstack-real-estate-cjtpbbes3-bob-daawids-projects.vercel.app/api",
 });
 
 export const getAllProperties = async() => {
