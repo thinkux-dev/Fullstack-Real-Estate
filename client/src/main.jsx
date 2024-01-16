@@ -13,7 +13,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         domain="dev-s0umzand4bhjx40u.us.auth0.com"
         clientId="luw2FM9gfO9GCAqbfDxWzYoeDoH7uSlq"
         authorizationParams={{
-          redirect_uri: "http://localhost:5173"
+          redirect_uri: "https://fullstack-real-estate-cjtpbbes3-bob-daawids-projects.vercel.app/"
         }}
         audience="http://localhost:9000"
         scope="openid profile email"
